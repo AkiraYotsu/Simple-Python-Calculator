@@ -3,6 +3,7 @@
 Simple calculator project using Python.
 
 ## Features
+
 - Summation 
 - Subtraction 
 - Multiplication 
